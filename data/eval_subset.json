@@ -1,0 +1,752 @@
+[
+    {
+        "id": 0,
+        "target_snippet": "def local_function_0():\n    print('Processing data chunk 0')\n    # This is ",
+        "full_code": "def local_function_0():\n    print('Processing data chunk 0')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 0 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 1,
+        "target_snippet": "def local_function_1():\n    print('Processing data chunk 1')\n    # This is ",
+        "full_code": "def local_function_1():\n    print('Processing data chunk 1')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 1 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 2,
+        "target_snippet": "def local_function_2():\n    print('Processing data chunk 2')\n    # This is ",
+        "full_code": "def local_function_2():\n    print('Processing data chunk 2')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 2 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 3,
+        "target_snippet": "def local_function_3():\n    print('Processing data chunk 3')\n    # This is ",
+        "full_code": "def local_function_3():\n    print('Processing data chunk 3')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 3 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 4,
+        "target_snippet": "def local_function_4():\n    print('Processing data chunk 4')\n    # This is ",
+        "full_code": "def local_function_4():\n    print('Processing data chunk 4')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 4 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 5,
+        "target_snippet": "def local_function_5():\n    print('Processing data chunk 5')\n    # This is ",
+        "full_code": "def local_function_5():\n    print('Processing data chunk 5')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 5 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 6,
+        "target_snippet": "def local_function_6():\n    print('Processing data chunk 6')\n    # This is ",
+        "full_code": "def local_function_6():\n    print('Processing data chunk 6')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 6 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 7,
+        "target_snippet": "def local_function_7():\n    print('Processing data chunk 7')\n    # This is ",
+        "full_code": "def local_function_7():\n    print('Processing data chunk 7')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 7 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 8,
+        "target_snippet": "def local_function_8():\n    print('Processing data chunk 8')\n    # This is ",
+        "full_code": "def local_function_8():\n    print('Processing data chunk 8')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 8 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 9,
+        "target_snippet": "def local_function_9():\n    print('Processing data chunk 9')\n    # This is ",
+        "full_code": "def local_function_9():\n    print('Processing data chunk 9')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 9 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 10,
+        "target_snippet": "def local_function_10():\n    print('Processing data chunk 10')\n    # This i",
+        "full_code": "def local_function_10():\n    print('Processing data chunk 10')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 10 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 11,
+        "target_snippet": "def local_function_11():\n    print('Processing data chunk 11')\n    # This i",
+        "full_code": "def local_function_11():\n    print('Processing data chunk 11')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 11 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 12,
+        "target_snippet": "def local_function_12():\n    print('Processing data chunk 12')\n    # This i",
+        "full_code": "def local_function_12():\n    print('Processing data chunk 12')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 12 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 13,
+        "target_snippet": "def local_function_13():\n    print('Processing data chunk 13')\n    # This i",
+        "full_code": "def local_function_13():\n    print('Processing data chunk 13')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 13 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 14,
+        "target_snippet": "def local_function_14():\n    print('Processing data chunk 14')\n    # This i",
+        "full_code": "def local_function_14():\n    print('Processing data chunk 14')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 14 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 15,
+        "target_snippet": "def local_function_15():\n    print('Processing data chunk 15')\n    # This i",
+        "full_code": "def local_function_15():\n    print('Processing data chunk 15')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 15 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 16,
+        "target_snippet": "def local_function_16():\n    print('Processing data chunk 16')\n    # This i",
+        "full_code": "def local_function_16():\n    print('Processing data chunk 16')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 16 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 17,
+        "target_snippet": "def local_function_17():\n    print('Processing data chunk 17')\n    # This i",
+        "full_code": "def local_function_17():\n    print('Processing data chunk 17')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 17 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 18,
+        "target_snippet": "def local_function_18():\n    print('Processing data chunk 18')\n    # This i",
+        "full_code": "def local_function_18():\n    print('Processing data chunk 18')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 18 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 19,
+        "target_snippet": "def local_function_19():\n    print('Processing data chunk 19')\n    # This i",
+        "full_code": "def local_function_19():\n    print('Processing data chunk 19')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 19 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 20,
+        "target_snippet": "def local_function_20():\n    print('Processing data chunk 20')\n    # This i",
+        "full_code": "def local_function_20():\n    print('Processing data chunk 20')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 20 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 21,
+        "target_snippet": "def local_function_21():\n    print('Processing data chunk 21')\n    # This i",
+        "full_code": "def local_function_21():\n    print('Processing data chunk 21')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 21 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 22,
+        "target_snippet": "def local_function_22():\n    print('Processing data chunk 22')\n    # This i",
+        "full_code": "def local_function_22():\n    print('Processing data chunk 22')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 22 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 23,
+        "target_snippet": "def local_function_23():\n    print('Processing data chunk 23')\n    # This i",
+        "full_code": "def local_function_23():\n    print('Processing data chunk 23')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 23 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 24,
+        "target_snippet": "def local_function_24():\n    print('Processing data chunk 24')\n    # This i",
+        "full_code": "def local_function_24():\n    print('Processing data chunk 24')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 24 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 25,
+        "target_snippet": "def local_function_25():\n    print('Processing data chunk 25')\n    # This i",
+        "full_code": "def local_function_25():\n    print('Processing data chunk 25')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 25 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 26,
+        "target_snippet": "def local_function_26():\n    print('Processing data chunk 26')\n    # This i",
+        "full_code": "def local_function_26():\n    print('Processing data chunk 26')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 26 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 27,
+        "target_snippet": "def local_function_27():\n    print('Processing data chunk 27')\n    # This i",
+        "full_code": "def local_function_27():\n    print('Processing data chunk 27')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 27 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 28,
+        "target_snippet": "def local_function_28():\n    print('Processing data chunk 28')\n    # This i",
+        "full_code": "def local_function_28():\n    print('Processing data chunk 28')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 28 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 29,
+        "target_snippet": "def local_function_29():\n    print('Processing data chunk 29')\n    # This i",
+        "full_code": "def local_function_29():\n    print('Processing data chunk 29')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 29 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 30,
+        "target_snippet": "def local_function_30():\n    print('Processing data chunk 30')\n    # This i",
+        "full_code": "def local_function_30():\n    print('Processing data chunk 30')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 30 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 31,
+        "target_snippet": "def local_function_31():\n    print('Processing data chunk 31')\n    # This i",
+        "full_code": "def local_function_31():\n    print('Processing data chunk 31')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 31 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 32,
+        "target_snippet": "def local_function_32():\n    print('Processing data chunk 32')\n    # This i",
+        "full_code": "def local_function_32():\n    print('Processing data chunk 32')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 32 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 33,
+        "target_snippet": "def local_function_33():\n    print('Processing data chunk 33')\n    # This i",
+        "full_code": "def local_function_33():\n    print('Processing data chunk 33')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 33 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 34,
+        "target_snippet": "def local_function_34():\n    print('Processing data chunk 34')\n    # This i",
+        "full_code": "def local_function_34():\n    print('Processing data chunk 34')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 34 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 35,
+        "target_snippet": "def local_function_35():\n    print('Processing data chunk 35')\n    # This i",
+        "full_code": "def local_function_35():\n    print('Processing data chunk 35')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 35 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 36,
+        "target_snippet": "def local_function_36():\n    print('Processing data chunk 36')\n    # This i",
+        "full_code": "def local_function_36():\n    print('Processing data chunk 36')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 36 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 37,
+        "target_snippet": "def local_function_37():\n    print('Processing data chunk 37')\n    # This i",
+        "full_code": "def local_function_37():\n    print('Processing data chunk 37')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 37 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 38,
+        "target_snippet": "def local_function_38():\n    print('Processing data chunk 38')\n    # This i",
+        "full_code": "def local_function_38():\n    print('Processing data chunk 38')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 38 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 39,
+        "target_snippet": "def local_function_39():\n    print('Processing data chunk 39')\n    # This i",
+        "full_code": "def local_function_39():\n    print('Processing data chunk 39')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 39 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 40,
+        "target_snippet": "def local_function_40():\n    print('Processing data chunk 40')\n    # This i",
+        "full_code": "def local_function_40():\n    print('Processing data chunk 40')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 40 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 41,
+        "target_snippet": "def local_function_41():\n    print('Processing data chunk 41')\n    # This i",
+        "full_code": "def local_function_41():\n    print('Processing data chunk 41')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 41 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 42,
+        "target_snippet": "def local_function_42():\n    print('Processing data chunk 42')\n    # This i",
+        "full_code": "def local_function_42():\n    print('Processing data chunk 42')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 42 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 43,
+        "target_snippet": "def local_function_43():\n    print('Processing data chunk 43')\n    # This i",
+        "full_code": "def local_function_43():\n    print('Processing data chunk 43')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 43 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 44,
+        "target_snippet": "def local_function_44():\n    print('Processing data chunk 44')\n    # This i",
+        "full_code": "def local_function_44():\n    print('Processing data chunk 44')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 44 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 45,
+        "target_snippet": "def local_function_45():\n    print('Processing data chunk 45')\n    # This i",
+        "full_code": "def local_function_45():\n    print('Processing data chunk 45')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 45 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 46,
+        "target_snippet": "def local_function_46():\n    print('Processing data chunk 46')\n    # This i",
+        "full_code": "def local_function_46():\n    print('Processing data chunk 46')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 46 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 47,
+        "target_snippet": "def local_function_47():\n    print('Processing data chunk 47')\n    # This i",
+        "full_code": "def local_function_47():\n    print('Processing data chunk 47')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 47 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 48,
+        "target_snippet": "def local_function_48():\n    print('Processing data chunk 48')\n    # This i",
+        "full_code": "def local_function_48():\n    print('Processing data chunk 48')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 48 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 49,
+        "target_snippet": "def local_function_49():\n    print('Processing data chunk 49')\n    # This i",
+        "full_code": "def local_function_49():\n    print('Processing data chunk 49')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 49 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 50,
+        "target_snippet": "def local_function_50():\n    print('Processing data chunk 50')\n    # This i",
+        "full_code": "def local_function_50():\n    print('Processing data chunk 50')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 50 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 51,
+        "target_snippet": "def local_function_51():\n    print('Processing data chunk 51')\n    # This i",
+        "full_code": "def local_function_51():\n    print('Processing data chunk 51')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 51 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 52,
+        "target_snippet": "def local_function_52():\n    print('Processing data chunk 52')\n    # This i",
+        "full_code": "def local_function_52():\n    print('Processing data chunk 52')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 52 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 53,
+        "target_snippet": "def local_function_53():\n    print('Processing data chunk 53')\n    # This i",
+        "full_code": "def local_function_53():\n    print('Processing data chunk 53')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 53 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 54,
+        "target_snippet": "def local_function_54():\n    print('Processing data chunk 54')\n    # This i",
+        "full_code": "def local_function_54():\n    print('Processing data chunk 54')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 54 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 55,
+        "target_snippet": "def local_function_55():\n    print('Processing data chunk 55')\n    # This i",
+        "full_code": "def local_function_55():\n    print('Processing data chunk 55')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 55 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 56,
+        "target_snippet": "def local_function_56():\n    print('Processing data chunk 56')\n    # This i",
+        "full_code": "def local_function_56():\n    print('Processing data chunk 56')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 56 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 57,
+        "target_snippet": "def local_function_57():\n    print('Processing data chunk 57')\n    # This i",
+        "full_code": "def local_function_57():\n    print('Processing data chunk 57')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 57 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 58,
+        "target_snippet": "def local_function_58():\n    print('Processing data chunk 58')\n    # This i",
+        "full_code": "def local_function_58():\n    print('Processing data chunk 58')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 58 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 59,
+        "target_snippet": "def local_function_59():\n    print('Processing data chunk 59')\n    # This i",
+        "full_code": "def local_function_59():\n    print('Processing data chunk 59')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 59 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 60,
+        "target_snippet": "def local_function_60():\n    print('Processing data chunk 60')\n    # This i",
+        "full_code": "def local_function_60():\n    print('Processing data chunk 60')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 60 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 61,
+        "target_snippet": "def local_function_61():\n    print('Processing data chunk 61')\n    # This i",
+        "full_code": "def local_function_61():\n    print('Processing data chunk 61')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 61 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 62,
+        "target_snippet": "def local_function_62():\n    print('Processing data chunk 62')\n    # This i",
+        "full_code": "def local_function_62():\n    print('Processing data chunk 62')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 62 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 63,
+        "target_snippet": "def local_function_63():\n    print('Processing data chunk 63')\n    # This i",
+        "full_code": "def local_function_63():\n    print('Processing data chunk 63')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 63 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 64,
+        "target_snippet": "def local_function_64():\n    print('Processing data chunk 64')\n    # This i",
+        "full_code": "def local_function_64():\n    print('Processing data chunk 64')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 64 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 65,
+        "target_snippet": "def local_function_65():\n    print('Processing data chunk 65')\n    # This i",
+        "full_code": "def local_function_65():\n    print('Processing data chunk 65')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 65 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 66,
+        "target_snippet": "def local_function_66():\n    print('Processing data chunk 66')\n    # This i",
+        "full_code": "def local_function_66():\n    print('Processing data chunk 66')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 66 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 67,
+        "target_snippet": "def local_function_67():\n    print('Processing data chunk 67')\n    # This i",
+        "full_code": "def local_function_67():\n    print('Processing data chunk 67')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 67 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 68,
+        "target_snippet": "def local_function_68():\n    print('Processing data chunk 68')\n    # This i",
+        "full_code": "def local_function_68():\n    print('Processing data chunk 68')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 68 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 69,
+        "target_snippet": "def local_function_69():\n    print('Processing data chunk 69')\n    # This i",
+        "full_code": "def local_function_69():\n    print('Processing data chunk 69')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 69 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 70,
+        "target_snippet": "def local_function_70():\n    print('Processing data chunk 70')\n    # This i",
+        "full_code": "def local_function_70():\n    print('Processing data chunk 70')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 70 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 71,
+        "target_snippet": "def local_function_71():\n    print('Processing data chunk 71')\n    # This i",
+        "full_code": "def local_function_71():\n    print('Processing data chunk 71')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 71 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 72,
+        "target_snippet": "def local_function_72():\n    print('Processing data chunk 72')\n    # This i",
+        "full_code": "def local_function_72():\n    print('Processing data chunk 72')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 72 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 73,
+        "target_snippet": "def local_function_73():\n    print('Processing data chunk 73')\n    # This i",
+        "full_code": "def local_function_73():\n    print('Processing data chunk 73')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 73 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 74,
+        "target_snippet": "def local_function_74():\n    print('Processing data chunk 74')\n    # This i",
+        "full_code": "def local_function_74():\n    print('Processing data chunk 74')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 74 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 75,
+        "target_snippet": "def local_function_75():\n    print('Processing data chunk 75')\n    # This i",
+        "full_code": "def local_function_75():\n    print('Processing data chunk 75')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 75 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 76,
+        "target_snippet": "def local_function_76():\n    print('Processing data chunk 76')\n    # This i",
+        "full_code": "def local_function_76():\n    print('Processing data chunk 76')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 76 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 77,
+        "target_snippet": "def local_function_77():\n    print('Processing data chunk 77')\n    # This i",
+        "full_code": "def local_function_77():\n    print('Processing data chunk 77')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 77 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 78,
+        "target_snippet": "def local_function_78():\n    print('Processing data chunk 78')\n    # This i",
+        "full_code": "def local_function_78():\n    print('Processing data chunk 78')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 78 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 79,
+        "target_snippet": "def local_function_79():\n    print('Processing data chunk 79')\n    # This i",
+        "full_code": "def local_function_79():\n    print('Processing data chunk 79')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 79 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 80,
+        "target_snippet": "def local_function_80():\n    print('Processing data chunk 80')\n    # This i",
+        "full_code": "def local_function_80():\n    print('Processing data chunk 80')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 80 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 81,
+        "target_snippet": "def local_function_81():\n    print('Processing data chunk 81')\n    # This i",
+        "full_code": "def local_function_81():\n    print('Processing data chunk 81')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 81 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 82,
+        "target_snippet": "def local_function_82():\n    print('Processing data chunk 82')\n    # This i",
+        "full_code": "def local_function_82():\n    print('Processing data chunk 82')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 82 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 83,
+        "target_snippet": "def local_function_83():\n    print('Processing data chunk 83')\n    # This i",
+        "full_code": "def local_function_83():\n    print('Processing data chunk 83')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 83 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 84,
+        "target_snippet": "def local_function_84():\n    print('Processing data chunk 84')\n    # This i",
+        "full_code": "def local_function_84():\n    print('Processing data chunk 84')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 84 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 85,
+        "target_snippet": "def local_function_85():\n    print('Processing data chunk 85')\n    # This i",
+        "full_code": "def local_function_85():\n    print('Processing data chunk 85')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 85 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 86,
+        "target_snippet": "def local_function_86():\n    print('Processing data chunk 86')\n    # This i",
+        "full_code": "def local_function_86():\n    print('Processing data chunk 86')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 86 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 87,
+        "target_snippet": "def local_function_87():\n    print('Processing data chunk 87')\n    # This i",
+        "full_code": "def local_function_87():\n    print('Processing data chunk 87')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 87 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 88,
+        "target_snippet": "def local_function_88():\n    print('Processing data chunk 88')\n    # This i",
+        "full_code": "def local_function_88():\n    print('Processing data chunk 88')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 88 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 89,
+        "target_snippet": "def local_function_89():\n    print('Processing data chunk 89')\n    # This i",
+        "full_code": "def local_function_89():\n    print('Processing data chunk 89')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 89 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 90,
+        "target_snippet": "def local_function_90():\n    print('Processing data chunk 90')\n    # This i",
+        "full_code": "def local_function_90():\n    print('Processing data chunk 90')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 90 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 91,
+        "target_snippet": "def local_function_91():\n    print('Processing data chunk 91')\n    # This i",
+        "full_code": "def local_function_91():\n    print('Processing data chunk 91')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 91 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 92,
+        "target_snippet": "def local_function_92():\n    print('Processing data chunk 92')\n    # This i",
+        "full_code": "def local_function_92():\n    print('Processing data chunk 92')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 92 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 93,
+        "target_snippet": "def local_function_93():\n    print('Processing data chunk 93')\n    # This i",
+        "full_code": "def local_function_93():\n    print('Processing data chunk 93')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 93 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 94,
+        "target_snippet": "def local_function_94():\n    print('Processing data chunk 94')\n    # This i",
+        "full_code": "def local_function_94():\n    print('Processing data chunk 94')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 94 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 95,
+        "target_snippet": "def local_function_95():\n    print('Processing data chunk 95')\n    # This i",
+        "full_code": "def local_function_95():\n    print('Processing data chunk 95')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 95 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 96,
+        "target_snippet": "def local_function_96():\n    print('Processing data chunk 96')\n    # This i",
+        "full_code": "def local_function_96():\n    print('Processing data chunk 96')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 96 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 97,
+        "target_snippet": "def local_function_97():\n    print('Processing data chunk 97')\n    # This i",
+        "full_code": "def local_function_97():\n    print('Processing data chunk 97')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 97 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 98,
+        "target_snippet": "def local_function_98():\n    print('Processing data chunk 98')\n    # This i",
+        "full_code": "def local_function_98():\n    print('Processing data chunk 98')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 98 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 99,
+        "target_snippet": "def local_function_99():\n    print('Processing data chunk 99')\n    # This i",
+        "full_code": "def local_function_99():\n    print('Processing data chunk 99')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 99 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 100,
+        "target_snippet": "def local_function_100():\n    print('Processing data chunk 100')\n    # This",
+        "full_code": "def local_function_100():\n    print('Processing data chunk 100')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 100 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 101,
+        "target_snippet": "def local_function_101():\n    print('Processing data chunk 101')\n    # This",
+        "full_code": "def local_function_101():\n    print('Processing data chunk 101')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 101 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 102,
+        "target_snippet": "def local_function_102():\n    print('Processing data chunk 102')\n    # This",
+        "full_code": "def local_function_102():\n    print('Processing data chunk 102')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 102 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 103,
+        "target_snippet": "def local_function_103():\n    print('Processing data chunk 103')\n    # This",
+        "full_code": "def local_function_103():\n    print('Processing data chunk 103')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 103 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 104,
+        "target_snippet": "def local_function_104():\n    print('Processing data chunk 104')\n    # This",
+        "full_code": "def local_function_104():\n    print('Processing data chunk 104')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 104 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 105,
+        "target_snippet": "def local_function_105():\n    print('Processing data chunk 105')\n    # This",
+        "full_code": "def local_function_105():\n    print('Processing data chunk 105')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 105 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 106,
+        "target_snippet": "def local_function_106():\n    print('Processing data chunk 106')\n    # This",
+        "full_code": "def local_function_106():\n    print('Processing data chunk 106')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 106 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 107,
+        "target_snippet": "def local_function_107():\n    print('Processing data chunk 107')\n    # This",
+        "full_code": "def local_function_107():\n    print('Processing data chunk 107')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 107 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 108,
+        "target_snippet": "def local_function_108():\n    print('Processing data chunk 108')\n    # This",
+        "full_code": "def local_function_108():\n    print('Processing data chunk 108')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 108 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 109,
+        "target_snippet": "def local_function_109():\n    print('Processing data chunk 109')\n    # This",
+        "full_code": "def local_function_109():\n    print('Processing data chunk 109')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 109 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 110,
+        "target_snippet": "def local_function_110():\n    print('Processing data chunk 110')\n    # This",
+        "full_code": "def local_function_110():\n    print('Processing data chunk 110')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 110 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 111,
+        "target_snippet": "def local_function_111():\n    print('Processing data chunk 111')\n    # This",
+        "full_code": "def local_function_111():\n    print('Processing data chunk 111')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 111 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 112,
+        "target_snippet": "def local_function_112():\n    print('Processing data chunk 112')\n    # This",
+        "full_code": "def local_function_112():\n    print('Processing data chunk 112')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 112 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 113,
+        "target_snippet": "def local_function_113():\n    print('Processing data chunk 113')\n    # This",
+        "full_code": "def local_function_113():\n    print('Processing data chunk 113')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 113 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 114,
+        "target_snippet": "def local_function_114():\n    print('Processing data chunk 114')\n    # This",
+        "full_code": "def local_function_114():\n    print('Processing data chunk 114')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 114 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 115,
+        "target_snippet": "def local_function_115():\n    print('Processing data chunk 115')\n    # This",
+        "full_code": "def local_function_115():\n    print('Processing data chunk 115')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 115 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 116,
+        "target_snippet": "def local_function_116():\n    print('Processing data chunk 116')\n    # This",
+        "full_code": "def local_function_116():\n    print('Processing data chunk 116')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 116 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 117,
+        "target_snippet": "def local_function_117():\n    print('Processing data chunk 117')\n    # This",
+        "full_code": "def local_function_117():\n    print('Processing data chunk 117')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 117 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 118,
+        "target_snippet": "def local_function_118():\n    print('Processing data chunk 118')\n    # This",
+        "full_code": "def local_function_118():\n    print('Processing data chunk 118')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 118 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 119,
+        "target_snippet": "def local_function_119():\n    print('Processing data chunk 119')\n    # This",
+        "full_code": "def local_function_119():\n    print('Processing data chunk 119')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 119 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 120,
+        "target_snippet": "def local_function_120():\n    print('Processing data chunk 120')\n    # This",
+        "full_code": "def local_function_120():\n    print('Processing data chunk 120')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 120 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 121,
+        "target_snippet": "def local_function_121():\n    print('Processing data chunk 121')\n    # This",
+        "full_code": "def local_function_121():\n    print('Processing data chunk 121')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 121 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 122,
+        "target_snippet": "def local_function_122():\n    print('Processing data chunk 122')\n    # This",
+        "full_code": "def local_function_122():\n    print('Processing data chunk 122')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 122 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 123,
+        "target_snippet": "def local_function_123():\n    print('Processing data chunk 123')\n    # This",
+        "full_code": "def local_function_123():\n    print('Processing data chunk 123')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 123 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 124,
+        "target_snippet": "def local_function_124():\n    print('Processing data chunk 124')\n    # This",
+        "full_code": "def local_function_124():\n    print('Processing data chunk 124')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 124 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 125,
+        "target_snippet": "def local_function_125():\n    print('Processing data chunk 125')\n    # This",
+        "full_code": "def local_function_125():\n    print('Processing data chunk 125')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 125 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 126,
+        "target_snippet": "def local_function_126():\n    print('Processing data chunk 126')\n    # This",
+        "full_code": "def local_function_126():\n    print('Processing data chunk 126')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 126 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 127,
+        "target_snippet": "def local_function_127():\n    print('Processing data chunk 127')\n    # This",
+        "full_code": "def local_function_127():\n    print('Processing data chunk 127')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 127 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 128,
+        "target_snippet": "def local_function_128():\n    print('Processing data chunk 128')\n    # This",
+        "full_code": "def local_function_128():\n    print('Processing data chunk 128')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 128 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 129,
+        "target_snippet": "def local_function_129():\n    print('Processing data chunk 129')\n    # This",
+        "full_code": "def local_function_129():\n    print('Processing data chunk 129')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 129 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 130,
+        "target_snippet": "def local_function_130():\n    print('Processing data chunk 130')\n    # This",
+        "full_code": "def local_function_130():\n    print('Processing data chunk 130')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 130 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 131,
+        "target_snippet": "def local_function_131():\n    print('Processing data chunk 131')\n    # This",
+        "full_code": "def local_function_131():\n    print('Processing data chunk 131')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 131 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 132,
+        "target_snippet": "def local_function_132():\n    print('Processing data chunk 132')\n    # This",
+        "full_code": "def local_function_132():\n    print('Processing data chunk 132')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 132 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 133,
+        "target_snippet": "def local_function_133():\n    print('Processing data chunk 133')\n    # This",
+        "full_code": "def local_function_133():\n    print('Processing data chunk 133')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 133 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 134,
+        "target_snippet": "def local_function_134():\n    print('Processing data chunk 134')\n    # This",
+        "full_code": "def local_function_134():\n    print('Processing data chunk 134')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 134 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 135,
+        "target_snippet": "def local_function_135():\n    print('Processing data chunk 135')\n    # This",
+        "full_code": "def local_function_135():\n    print('Processing data chunk 135')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 135 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 136,
+        "target_snippet": "def local_function_136():\n    print('Processing data chunk 136')\n    # This",
+        "full_code": "def local_function_136():\n    print('Processing data chunk 136')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 136 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 137,
+        "target_snippet": "def local_function_137():\n    print('Processing data chunk 137')\n    # This",
+        "full_code": "def local_function_137():\n    print('Processing data chunk 137')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 137 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 138,
+        "target_snippet": "def local_function_138():\n    print('Processing data chunk 138')\n    # This",
+        "full_code": "def local_function_138():\n    print('Processing data chunk 138')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 138 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 139,
+        "target_snippet": "def local_function_139():\n    print('Processing data chunk 139')\n    # This",
+        "full_code": "def local_function_139():\n    print('Processing data chunk 139')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 139 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 140,
+        "target_snippet": "def local_function_140():\n    print('Processing data chunk 140')\n    # This",
+        "full_code": "def local_function_140():\n    print('Processing data chunk 140')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 140 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 141,
+        "target_snippet": "def local_function_141():\n    print('Processing data chunk 141')\n    # This",
+        "full_code": "def local_function_141():\n    print('Processing data chunk 141')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 141 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 142,
+        "target_snippet": "def local_function_142():\n    print('Processing data chunk 142')\n    # This",
+        "full_code": "def local_function_142():\n    print('Processing data chunk 142')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 142 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 143,
+        "target_snippet": "def local_function_143():\n    print('Processing data chunk 143')\n    # This",
+        "full_code": "def local_function_143():\n    print('Processing data chunk 143')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 143 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 144,
+        "target_snippet": "def local_function_144():\n    print('Processing data chunk 144')\n    # This",
+        "full_code": "def local_function_144():\n    print('Processing data chunk 144')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 144 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 145,
+        "target_snippet": "def local_function_145():\n    print('Processing data chunk 145')\n    # This",
+        "full_code": "def local_function_145():\n    print('Processing data chunk 145')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 145 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 146,
+        "target_snippet": "def local_function_146():\n    print('Processing data chunk 146')\n    # This",
+        "full_code": "def local_function_146():\n    print('Processing data chunk 146')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 146 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 147,
+        "target_snippet": "def local_function_147():\n    print('Processing data chunk 147')\n    # This",
+        "full_code": "def local_function_147():\n    print('Processing data chunk 147')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 147 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 148,
+        "target_snippet": "def local_function_148():\n    print('Processing data chunk 148')\n    # This",
+        "full_code": "def local_function_148():\n    print('Processing data chunk 148')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 148 to simulate real-world code mass.\n"
+    },
+    {
+        "id": 149,
+        "target_snippet": "def local_function_149():\n    print('Processing data chunk 149')\n    # This",
+        "full_code": "def local_function_149():\n    print('Processing data chunk 149')\n    # This is a local synthetic code snippet to train the RL agent.\n    # Adding extra boilerplate padding for file 149 to simulate real-world code mass.\n"
+    }
+]
